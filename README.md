@@ -6,19 +6,46 @@ Users can practice in immersive virtual environments with realistic audiences, e
 ---
 
 ## Features
-- Multiple virtual venues: Auditorium, Drama Hall, Presentation Room, Stage
-- Adjustable audience size and reactions
-- Interactive feedback for practice sessions
-- Safe and immersive environment for skill-building
+- **Multiple Virtual Venues:** Choose from various environments such as an Auditorium, Drama Hall, Presentation Room, or Stage.
+- **Customizable Audience:** Adjust the audience size and their reactions, providing a range of realistic scenarios.
+- **Anxiety Tracker:** Monitor and manage anxiety levels with real-time data during your practice sessions.
+- **AI-Powered Feedback:** Receive intelligent, personalized feedback from simulated avatars that engage in realistic dialogues, helping to refine your performance.
+- **Immersive Practice Environment:** Experience the sensation of performing in front of an audience, with detailed 3D scans of real stages or halls you can rehearse in anytime, anywhere.
+
+---
+
+## Target Customers
+- **Students** preparing for presentations and exams.
+- **Professionals** in sales, marketing, consulting, and public-speaking careers.
+- **Public Speakers** and motivational speakers looking to improve their performance.
+- **Magicians, entertainers**, and stage performers needing to rehearse in front of an audience.
 
 ---
 
 ## Tech Stack
-- **Unity** 6000.0.51f1
-- **XR**: OpenXR + XR Interaction Toolkit
-- **Target**: Meta Quest 3, Meta Quest 3S , Meta Quest 2
+- **Platform:** Meta Quest 2, Meta Quest 3, Meta Quest 3S
+- **Game Engine:** Unity 6000.0.51f1
+- **XR Integration:** OpenXR + XR Interaction Toolkit
+- **Programming Languages:** 
+  - **C#:** Used for Unity development
+  - **Python:** For AI feedback system
+- **Heart Rate Monitoring:** APIs for tracking anxiety levels in real-time
 
 ---
 
 ## Getting Started
 Just clone the repo and dive in — have fun exploring ACTURA! 🎮
+
+1. **Clone the repo:**  
+   ```bash
+   git clone https://github.com/PasindhuW/ACTURA.git
+   ```
+2. **Open in Unity:**
+   - Load the project in Unity 6000.0.51f1 or later.
+
+3. **Deploy to Meta Quest:**
+   - Follow the Unity XR setup guidelines to deploy the app on your Meta Quest device.
+
+4. **Start Practicing:**
+   - Choose a venue, adjust the audience size, and begin rehearsing.
+   - Use the AI-powered feedback for improvement.
