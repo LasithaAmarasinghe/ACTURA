@@ -3,6 +3,10 @@
 **ACTURA** is a Virtual Reality application built with Unity to help users overcome stage fear and improve public-speaking confidence.  
 Users can practice in immersive virtual environments with realistic audiences, enhancing their comfort and presentation skills.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/105cd9e0-c1be-4041-9949-6400920850d4" alt="Demo GIF" />
+</p>
+
 ---
 
 ## Features
