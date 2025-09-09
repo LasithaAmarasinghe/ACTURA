@@ -53,6 +53,8 @@ Just clone the repo and dive in — have fun exploring ACTURA! 🎮
 4. **Start Practicing:**
    - Choose a venue, adjust the audience size, and begin rehearsing.
    - Use the AI-powered feedback for improvement.
+
+---
   
 ### Pitch Deck, Pitch Video & Demo Video
 
