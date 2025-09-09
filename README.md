@@ -53,3 +53,12 @@ Just clone the repo and dive in — have fun exploring ACTURA! 🎮
 4. **Start Practicing:**
    - Choose a venue, adjust the audience size, and begin rehearsing.
    - Use the AI-powered feedback for improvement.
+  
+### Pitch Deck, Pitch Video & Demo Video
+
+You can view or download the Pitch Deck, Pitch Video, and Demo Video through the links below:
+
+- [ACTURA - Pitch Deck (PDF)](https://github.com/PasindhuW/ACTURA/blob/main/ACTURA%20-%20Pitch%20Deck.pdf)
+- [ACTURA - Pitch Video (MP4)](https://github.com/PasindhuW/ACTURA/blob/main/ACTURA%20-%20Pitch%20Video.mp4)
+- [ACTURA - Demo Video (MP4)](https://drive.google.com/file/d/1MXkbmamSrxQuH5eedsmX67OknVXVLKuB/view?usp=sharing)
+
